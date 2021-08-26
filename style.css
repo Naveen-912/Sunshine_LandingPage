@@ -63,10 +63,12 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-size: 3rem;
     flex-grow: 0.5;
     color: white;
     font-weight: bold;
+}
+.main h1{
+    font-size: 3rem;
 }
 .arrow{
     margin-top: 60px;
