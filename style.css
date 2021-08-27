@@ -330,7 +330,7 @@ footer .social{
     }
     .nav-active{
         top: 15vh;
-        right:10vh;
+        right:15px;
     }
     .section1{
         flex-direction: column-reverse;
