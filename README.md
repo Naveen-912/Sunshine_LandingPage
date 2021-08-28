@@ -27,13 +27,12 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-  #Desktop view
+  ####Desktop view
   ![](https://github.com/Naveen-912/Sunshine_LandingPage/blob/main/screenshots/20210828_121052.jpg)
 
-  #Mobile view
+  ####Mobile view
   ![](https://github.com/Naveen-912/Sunshine_LandingPage/blob/main/screenshots/20210828_121801.jpg)
-  
-  #Mobile nav bar
+ 
   ![](https://github.com/Naveen-912/Sunshine_LandingPage/blob/main/screenshots/Sunnyside-mobileNav.png)
   
   
